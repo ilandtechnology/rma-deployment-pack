@@ -4,8 +4,8 @@ if ($adminUser.Enabled -eq $false) {
     Enable-LocalUser -Name $adminUser.Name
 }
 
-$key = [IO.File]::ReadAllBytes(".\ky.bin")
-$encrypted = Get-Content ".\sec.enc"
+$key = [IO.File]::ReadAllBytes("$PSScriptRoot\ky.bin")
+$encrypted = Get-Content "$PSScriptRoot\sec.enc"
 $secure = ConvertTo-SecureString -String $encrypted -Key $key
 $plain = [System.Net.NetworkCredential]::new("", $secure).Password
 
