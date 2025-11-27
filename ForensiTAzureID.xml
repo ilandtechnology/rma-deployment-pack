@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<ForensiTAzureID ObjectId="a18ea139-8d01-46e4-866e-732f3e0f2849" Name="rangelmoreira.onmicrosoft.com rangelmoreira.adv.br" DisplayName="RANGEL MOREIRA ADVOCACIA">
+    <User>
+        <UserPrincipalName>adelia.batista@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>7bb15aec-bbb1-4335-9d9a-6edf48f809fb</ObjectId>
+        <DisplayName>Adélia Batista | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>admin.manoel@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>0e814571-8fc0-42e8-916f-f81949d82656</ObjectId>
+        <DisplayName>Manoel Alheiros</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>admin@rangelmoreira.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>e35b83f3-922d-493c-99f9-06f2c1858de6</ObjectId>
+        <DisplayName>Manoel Alheiros</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>alana.nascimento@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>de843b9f-f856-4f6d-b0c7-05496f26fd05</ObjectId>
+        <DisplayName>Alana Nascimento | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>amanda.lima@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>66a1a3dc-f307-4371-a79a-2ffe86ec073e</ObjectId>
+        <DisplayName>Amanda Lima | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>amanda.paiva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>23be033e-80cc-4b83-ba6e-6371a963a239</ObjectId>
+        <DisplayName>Amanda Paiva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ana.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>e1957541-bfe7-43af-92f0-56aa4e5814f8</ObjectId>
+        <DisplayName>Ana Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>anabeatriz.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>9661a321-7270-4a48-a5e1-405f151976fa</ObjectId>
+        <DisplayName>Ana Beatriz Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>analuiza.cordeiro@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>125e5bc9-e950-4c4c-ad63-6ac0b9077f44</ObjectId>
+        <DisplayName>Ana Luiza Cordeiro | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>andre.victor@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>1495754f-78d0-47cf-848b-3ed971109ca4</ObjectId>
+        <DisplayName>André Victor | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>andrea@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>9134bdad-d2c9-46a7-919e-2d719554c8cb</ObjectId>
+        <DisplayName>Andrea | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>andreza.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>40bce0c1-97a7-4681-8cec-d6c7bc84517f</ObjectId>
+        <DisplayName>Andreza Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>angelica.cavalcanti@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>15585759-869b-4aa8-9eca-f3b6ad022f1f</ObjectId>
+        <DisplayName>Angélica Cavalcanti | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>anna.beatriz@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>8368db02-6fb7-4ed6-b12d-ba028774fbe9</ObjectId>
+        <DisplayName>Anna Beatriz | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>barbara.regina@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>99afdb98-c736-4438-9abc-78ea0eb59349</ObjectId>
+        <DisplayName>Barbara Regina | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>barbara@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>6298f33c-5e7a-4d52-92e3-968ca0413f5d</ObjectId>
+        <DisplayName>Barbara | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>beatriz.ferreira@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>cd36ecf3-d77c-411b-8f23-99451f5927d3</ObjectId>
+        <DisplayName>Beatriz Ferreira | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>beatriz.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>dac4b069-f8ec-45b6-9cb3-e9d465a8b8a0</ObjectId>
+        <DisplayName>Beatriz Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>brenda.shaiane@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>82c42ffc-d5b2-4887-9030-ea180dbd2304</ObjectId>
+        <DisplayName>Brenda Shaiane | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>breno.sousa@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>f4ae980b-b1c4-4f4a-ac9b-f91f87a18855</ObjectId>
+        <DisplayName>Breno Sousa | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bruna.fernandes@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>2b73ac65-e7fb-41ff-9369-e72b27c7853d</ObjectId>
+        <DisplayName>Bruna de Souza Fernandes | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bruna.silvestre@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>9e2a5171-d0bb-407d-aec4-063bf9ec3e93</ObjectId>
+        <DisplayName>Bruna Silvestre | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bruna@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>cbcc2225-f188-47fa-a281-a71e37266630</ObjectId>
+        <DisplayName>Bruna Cinthia | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>brunna.neves@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>e7a14518-9395-41f8-827f-a36f11315b99</ObjectId>
+        <DisplayName>Brunna Neves | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bruno@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>db561da9-0ebc-4820-b7a2-4b5df9931f3a</ObjectId>
+        <DisplayName>Bruno | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>camyla.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>e91e210c-3906-4128-af28-9e43f6c8a746</ObjectId>
+        <DisplayName>Camyla Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>cobranca@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>0b1896b0-3c2f-438b-aead-545874cced78</ObjectId>
+        <DisplayName>Cobranca Moreira | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>Contato@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>7058a999-c163-4f62-9990-e93bf70c90ef</ObjectId>
+        <DisplayName>Contato | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>cristiane.carvalho@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>b91564d8-71cf-4943-ad69-c3a19d3dd2ff</ObjectId>
+        <DisplayName>Cristiane Carvalho | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>cynthia.barros@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>0c833b6f-edf7-4d87-a78e-d330b3acbf88</ObjectId>
+        <DisplayName>Cynthia Barros | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>daniela.rodrigues@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>89aadeca-5fb2-4b39-8a43-c321307edac0</ObjectId>
+        <DisplayName>Daniela Rodrigues | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>danilo.bruno@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>8dae7daf-b580-4050-bb8a-a9ef5ce8d4fc</ObjectId>
+        <DisplayName>Danilo Bruno | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>david.junior@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>31deda19-1680-45a4-ac87-ff1af8375935</ObjectId>
+        <DisplayName>David Júnior | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>david.motta@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>5dedffd6-a946-4c2f-a6b6-145187d86131</ObjectId>
+        <DisplayName>David Motta | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>deividy.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>3cca3762-19ce-4d08-8c8d-b450798e2660</ObjectId>
+        <DisplayName>Deividy Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>diogo.andrade@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>c792a8d9-2007-4736-937f-c5eda9915c60</ObjectId>
+        <DisplayName>Diogo Andrade | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>edilma.albuquerque@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>c649c216-faf9-4433-8aa5-7180e9aeee53</ObjectId>
+        <DisplayName>Edilma Albuquerque | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>eduarda.porfirio@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>bc745bb5-1e6f-42c0-b6fc-0fbc212bb34c</ObjectId>
+        <DisplayName>Eduarda Porfirio | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>elli.stephanie@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>327d935c-0d9a-4d4e-afc9-18f5e40fca67</ObjectId>
+        <DisplayName>Elli Stephanie | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>emilly.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>40812cb2-abd5-43fd-b587-d8bb3b08a0e6</ObjectId>
+        <DisplayName>Emilly da Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>empresarial@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>102cb675-e31a-47a2-bd95-9a36f74f2c7d</ObjectId>
+        <DisplayName>Empresarial adv | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ester.souza@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>391f9059-a542-4b6c-8e54-f736beaaa568</ObjectId>
+        <DisplayName>Ester de Souza | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>fabio.lupicinio@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>6da1e8a8-be39-47f9-8f62-20d3b6ef7381</ObjectId>
+        <DisplayName>Fábio Lupicinio | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>felipe.torres@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>624e6258-27d9-4057-b45f-de67b57ae786</ObjectId>
+        <DisplayName>Felipe Torres | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>fernanda.kelle@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>102ff0a5-322b-41de-8679-44a45a73ec8b</ObjectId>
+        <DisplayName>Fernanda kelle da Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>fernando.gondim@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>117d8f7f-2ebf-4d6c-b831-5afc530433a1</ObjectId>
+        <DisplayName>Fernando Gondim | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>gabriella.andrade@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>cce43693-07ee-47e3-8450-060579ef21be</ObjectId>
+        <DisplayName>Gabriella Andrade | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>gabryela@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>2f4bb573-a034-41dd-bff6-2bd6dfc9e483</ObjectId>
+        <DisplayName>Gabryela | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>gilberto.gomes@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>bb11dd2f-7d4d-4aa3-ace5-2ee9307a850a</ObjectId>
+        <DisplayName>Gilberto Gomes | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>guilherme.bezerra@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>900c833e-e84a-4440-9aa6-0bca0aeb718f</ObjectId>
+        <DisplayName>Guilherme Bezerra | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>heloisa.rodrigues@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>c428720c-b466-4585-a055-d3ad5edefbc1</ObjectId>
+        <DisplayName>Heloísa Rodrigues | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>hugo.medeiros@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>edf08bef-bb29-4db4-8675-8d101549e31e</ObjectId>
+        <DisplayName>Hugo Medeiros | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>iland.infra@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>e3889244-1496-43b1-be86-1ac07b74ef70</ObjectId>
+        <DisplayName>iland infra</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ingrid.brandao@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>5db57dd0-778f-46d4-89cb-d180a0697e8e</ObjectId>
+        <DisplayName>Ingrid Brandão | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>intimacao@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>646061bd-728e-4443-bef3-cfbcd9019314</ObjectId>
+        <DisplayName>Intimação | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ivania.arruda@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>5af6fb92-b4fd-4252-b35d-342da8abb460</ObjectId>
+        <DisplayName>Ivania Arruda | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jamilly.magalhaes@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>6ddb4c19-4d74-4c22-b8e8-11d2b24f13bc</ObjectId>
+        <DisplayName>Jamilly Magalhães | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jamires.mirele@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>03ce20e1-9418-4bbf-9b7c-91c3a3777d4c</ObjectId>
+        <DisplayName>Jamires Mirele | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jefferson@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>4e94a0eb-69ef-4ad6-b518-012e0b2c575e</ObjectId>
+        <DisplayName>Jefferson | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jessica.ferreira@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>6af5476b-9ce0-4c53-a389-2bb977c4aaf2</ObjectId>
+        <DisplayName>Jessica Ferreira | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>joana.pinheiro@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>602b580a-7bdb-4a5a-b23d-2455dc550c6c</ObjectId>
+        <DisplayName>Joana Pinheiro | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jonathan.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>49bd5b43-e887-4900-9eb9-a23d008c3312</ObjectId>
+        <DisplayName>Jonathan Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>jooliveira@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>e61209c8-2ba3-4425-aaaa-d30f36cf70f3</ObjectId>
+        <DisplayName>Jô Oliveira | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>joyce@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>6169923c-8403-414a-9470-fb9ee21b8fc0</ObjectId>
+        <DisplayName>Joyce | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>juliana.marques@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>7e428680-53e2-4347-8f8c-58c14535c846</ObjectId>
+        <DisplayName>Juliana Marques | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>juliete@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>7c2b2694-d8a9-4d58-b716-e792af9ba539</ObjectId>
+        <DisplayName>Juliete | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>juridico@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>ea1f1669-7ffe-48bd-8ef1-18b4782c2109</ObjectId>
+        <DisplayName>Juridico | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>karen.goncalves@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>c73ff440-bfed-4c9a-981b-36d917b54f1b</ObjectId>
+        <DisplayName>Karen Gonçalves | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>keslene.pinto@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>12405e7c-ce33-4439-9fdb-fd80d7f8880f</ObjectId>
+        <DisplayName>Keslene Vieira Pinto | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>keyla.lucena@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>8fb90a93-66cc-4427-b7ee-7f10e9abd4fa</ObjectId>
+        <DisplayName>Keyla Lucena | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lais@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>37342729-0269-41a2-a487-0e924bd7d161</ObjectId>
+        <DisplayName>Laís Cambuim | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>laistmdal_gmail.com#EXT#@rangelmoreira.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>96e52e57-2f0a-4248-9402-255492c4a10b</ObjectId>
+        <DisplayName>laistmdal@gmail.com</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>larissa.bastos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>1089c6cb-63da-4156-8e4c-0be7745db1d8</ObjectId>
+        <DisplayName>Larissa Bastos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>larissa.cirelli@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>4911c857-c74c-4651-aa92-be3b02f80e2a</ObjectId>
+        <DisplayName>Larissa Cirelli | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>llira@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>2c6f3c09-fdf4-4428-8729-8ea21bbe0708</ObjectId>
+        <DisplayName>Laís Tereza Melo D’ Albuquerque Lira | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lorenna.aciole@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>a15d2c78-17fb-455b-a382-63b21dd5c83e</ObjectId>
+        <DisplayName>Lorenna Aciole | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lorenna.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>01872369-6f9f-4605-b593-a44d9c4db2d6</ObjectId>
+        <DisplayName>Lorenna Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lucas.bezerra@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>9e6465fd-768e-429a-bbeb-3e693096b9aa</ObjectId>
+        <DisplayName>Lucas Fernando Bezerra | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>lucas.moura@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>14626a6b-ffa0-4d1c-bbca-f9538f1b8140</ObjectId>
+        <DisplayName>Lucas Moura | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>marcela.costa@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>30d7ea9a-0201-4291-a1c6-55c2e93e1446</ObjectId>
+        <DisplayName>Marcela Costa Mariz | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mariaclara.revoredo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>cecd8854-b11e-4414-93ab-b774f614288f</ObjectId>
+        <DisplayName>Maria Clara Revoredo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mariaclara.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>b1a91373-c895-4b7f-889b-0c7cac11b135</ObjectId>
+        <DisplayName>Maria Clara Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mariaeduarda.ramos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>5330cefd-0d9a-431a-b67b-1a27436c4fac</ObjectId>
+        <DisplayName>Maria Eduarda Ramos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mariaeduarda.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>5df71da0-4a9d-4608-8bc4-1b9ac5f6134a</ObjectId>
+        <DisplayName>Maria Eduarda Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mariaeduarda.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>61f023c2-1872-4e74-8c9a-6ce1d2558f73</ObjectId>
+        <DisplayName>Maria Eduarda Silva | Rangel Moreira Advocacia‎</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mariafernanda.nogueira@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>3dbac56f-1cb1-4254-a5ca-54a98f5f951f</ObjectId>
+        <DisplayName>Maria Fernanda Nogueira | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>marina.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>aaa2e1dd-33ba-40e3-988c-dacd549fdaff</ObjectId>
+        <DisplayName>Marina Raposo e Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>matheus.vasconcelos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>bb3acaab-fedd-4d1b-8479-48e37c3bed80</ObjectId>
+        <DisplayName>Matheus Vasconcelos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mayara.fidelis@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>912e9fcf-3341-4115-998f-ceb9b6573168</ObjectId>
+        <DisplayName>Mayara Fidelis  | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mayara.nascimento@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>bb25b5f9-d91d-447c-900b-c6240634eb11</ObjectId>
+        <DisplayName>Mayara Nascimento | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mayara@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>214602be-27e5-432e-ade0-c2521dd816fa</ObjectId>
+        <DisplayName>Mayara | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>meduardaramos10_hotmail.com#EXT#@rangelmoreira.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>f2f5202f-29d3-4b93-a5aa-5f1c0b649ece</ObjectId>
+        <DisplayName>meduardaramos10@hotmail.com</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>melissa.araujo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>12972cb2-5a98-4650-8208-75a7e296e3c2</ObjectId>
+        <DisplayName>Melissa Araújo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>micaelly.karoline@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>ea71023d-1acb-4822-ae99-0625827a3edc</ObjectId>
+        <DisplayName>Micaelly Karoline | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>michel.campelo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>ca56a98a-f8aa-4ab2-a962-0792eb072d53</ObjectId>
+        <DisplayName>Michel Campelo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>michele@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>4ffc5125-cb6f-434b-aefe-1f28f0f51103</ObjectId>
+        <DisplayName>Michele | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>mirely.alves@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>3618cd78-eab3-4248-a505-d42124bbf3c5</ObjectId>
+        <DisplayName>Mirely Alves | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>morgana@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>51080895-43c7-404d-8d8c-c1a38346cf95</ObjectId>
+        <DisplayName>Morgana Azevedo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>pablo.brandao@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>d910d41b-6dfd-4e23-b945-80078c9c14d9</ObjectId>
+        <DisplayName>Pablo Brandão | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>paula.abreu@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>19f1cc30-7012-4bc8-bc21-40f5b5a4dab6</ObjectId>
+        <DisplayName>Paula Abreu | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>paula@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>ffb78006-b976-4d30-969d-b9f53679ffd4</ObjectId>
+        <DisplayName>Paula Jordana Barreto de Medeiros | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>paulo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>bd20bfa5-eeea-4ee0-b1ff-b9a6affe1a1d</ObjectId>
+        <DisplayName>Paulo Rangel | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>paulorodolfo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>c505ca89-ea20-4c55-a525-a48eca5b21a6</ObjectId>
+        <DisplayName>Paulo Rodolfo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>pedro.melo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>c68824ea-47bb-4d93-914e-32a748f71457</ObjectId>
+        <DisplayName>Pedro Melo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>pedro.paulo@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>b888ba62-b5ed-41e4-a89c-dc60f97d1650</ObjectId>
+        <DisplayName>Pedro Paulo | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>peixotobrenoj_gmail.com#EXT#@rangelmoreira.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>9f379ffc-f793-4462-ba41-0a030111d43b</ObjectId>
+        <DisplayName>peixotobrenoj@gmail.com</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>pendencia.contabil@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>ef3af23e-a87e-42a2-8903-b06ccd1b060d</ObjectId>
+        <DisplayName>Pendência  Contábil | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>pollianna.farias@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>1c0c5734-b7a5-4859-be6e-a23e75f00f01</ObjectId>
+        <DisplayName>Pollianna Farias | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>recepcao@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>6d74093c-49c6-41c8-9f4d-11ae0daccce2</ObjectId>
+        <DisplayName>Recepção | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rh@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>bab3b1f7-746c-477f-bad3-373c6ab2d5cd</ObjectId>
+        <DisplayName>RH | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rogerio.moreira_gmail.com#EXT#@rangelmoreira.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>c85d4bb9-457c-4b6b-b12d-79a7c58027ea</ObjectId>
+        <DisplayName>Rogerio Moreira</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rosamaria@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>fa549213-632d-4f26-886c-2ef7fc373769</ObjectId>
+        <DisplayName>RosaMaria | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>stephane.silva@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>eb7cffc8-5368-40cd-a351-1093d696ecb2</ObjectId>
+        <DisplayName>Stephane Silva | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>suporte@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>f97c124f-c883-4da7-8031-401bcdfc25f5</ObjectId>
+        <DisplayName>suporte</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>tacia.moura@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>027a2652-755e-40ce-9fa6-114de3c6a091</ObjectId>
+        <DisplayName>Tácia Moura | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>taina.dias@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>856ab664-27a0-4b62-872b-7e822b2bd5fd</ObjectId>
+        <DisplayName>Tainá Dias | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>thabata.marques@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>47bc3dea-0792-4cc3-8ecd-d371e656b0e6</ObjectId>
+        <DisplayName>Thabata Marques | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>thais@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>1e9ddbc0-2dee-4cba-9666-3ca318c7e4a3</ObjectId>
+        <DisplayName>Thais Bizarro | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>thayana.castro@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>b62096ef-4fc9-4995-933b-30e45f0afbb4</ObjectId>
+        <DisplayName>Thayana Castro | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>thayane.santana@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>8a364913-4660-4016-bea1-b73e7684543d</ObjectId>
+        <DisplayName>Thayane Oliveira de Santana | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>thiago.nunes@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>b08fb176-4257-4e73-b941-0092c7740629</ObjectId>
+        <DisplayName>Thiago Nunes | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>yasmim.medeiros@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>87135723-91a3-4853-ac32-1529ef135fb5</ObjectId>
+        <DisplayName>Yasmim  Medeiros | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>yasmin.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>e2d409a7-581d-47b8-96e9-13b3fb69f2a5</ObjectId>
+        <DisplayName>Yasmin Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>yoma.santos@rangelmoreira.adv.br</UserPrincipalName>
+        <ObjectId>f484e646-5d6a-4f97-8a43-9fec02a73a36</ObjectId>
+        <DisplayName>Yoma Santos | Rangel Moreira Advocacia</DisplayName>
+    </User>
+</ForensiTAzureID>
