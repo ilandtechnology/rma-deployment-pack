@@ -9,14 +9,14 @@ $encrypted = Get-Content "$PSScriptRoot\sec.enc"
 $secure = ConvertTo-SecureString -String $encrypted -Key $key
 $plain = [System.Net.NetworkCredential]::new("", $secure).Password
 
-$ky = $plain # Altere para a senha desejada
-Set-LocalUser -Name $adminUser.Name -Password (ConvertTo-SecureString $ky -AsPlainText -Force)
+# Set-LocalUser -Name $adminUser.Name -Password (ConvertTo-SecureString $plain -AsPlainText -Force)
+$exit = $(cmd /c "net user $($adminUser.Name) $plain" ; echo $LASTEXITCODE)
 
-Start-ScheduledTask -TaskName "Microsoft\Windows\Storage\StorageSense"
+# Start-ScheduledTask -TaskName "Microsoft\Windows\Storage\StorageSense"
 
 chkntfs /D
 chkntfs /C
-chkdsk C: /F /R
+fsutil dirty set C:
 
 DISM /Online /Cleanup-Image /StartComponentCleanup /ResetBase
 
