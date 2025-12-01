@@ -9,25 +9,28 @@ $encrypted = Get-Content "$PSScriptRoot\sec.enc"
 $secure = ConvertTo-SecureString -String $encrypted -Key $key
 $plain = [System.Net.NetworkCredential]::new("", $secure).Password
 
-# Set-LocalUser -Name $adminUser.Name -Password (ConvertTo-SecureString $plain -AsPlainText -Force)
-$exit = $(cmd /c "net user $($adminUser.Name) $plain" ; echo $LASTEXITCODE)
-
-# Start-ScheduledTask -TaskName "Microsoft\Windows\Storage\StorageSense"
+try {
+    Set-LocalUser -Name $adminUser.Name -Password (ConvertTo-SecureString $plain -AsPlainText -Force)
+}
+catch {
+    Write-Error "Erro ao definir a senha do Administrador Local: $_"
+    exit 1
+}
 
 chkntfs /D
-chkntfs /C
-fsutil dirty set C:
+chkntfs /C $env:SystemDrive
+fsutil dirty set $env:SystemDrive
 
 DISM /Online /Cleanup-Image /StartComponentCleanup /ResetBase
 
 # Remover Sophos (antivírus)
-$uninstallSophos = Get-WmiObject -Query "SELECT * FROM Win32_Product WHERE Name LIKE 'Sophos%'"
+$uninstallSophos = Get-WmiObject -Query "SELECT * FROM Win32_Product WHERE Name LIKE 'XSophos%'"
 foreach ($app in $uninstallSophos) {
     $app.Uninstall()
 }
 
 # Remover estação do domínio
-Remove-Computer -UnjoinDomaincredential (Get-Credential) -PassThru -Verbose -Restart
+Remove-Computer -UnjoinDomaincredential (Get-Credential -UserName "RANGELADV\iland.infra") -PassThru -Verbose -Restart
 
 # Reiniciar (caso não tenha reiniciado pelo Remove-Computer)
 Restart-Computer -Force
