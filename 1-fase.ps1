@@ -1,4 +1,10 @@
-# Ativar Administrador Local (independente do idioma)
+# Ensure the script is running with elevated permissions
+if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
+    throw "Este script deve ser executado com permissões elevadas (Administrador)."
+    exit 1
+}
+
+# Enable Local Administrator account and set its password
 $adminUser = Get-LocalUser | Where-Object { $_.SID -like "S-1-5-21-*-500" }
 if ($adminUser.Enabled -eq $false) {
     Enable-LocalUser -Name $adminUser.Name
@@ -24,7 +30,7 @@ fsutil dirty set $env:SystemDrive
 
 DISM /Online /Cleanup-Image /StartComponentCleanup /ResetBase
 
-# Remover Softwares
+# Remove unwanted software
 $uninstallSoftwares = @(
     "SonicWall NetExtender",
     "TreeSize Free"
@@ -49,10 +55,10 @@ Set-TimeZone -Id "SA Eastern Standard Time"
 
 start-sleep -Seconds 15
 
-# Remover estação do domínio
+# Remove computer from domain
 Remove-Computer -UnjoinDomaincredential (Get-Credential -UserName "RANGELADV\iland.infra" -Message "Entre a senha para remover a máquina do domínio.") -PassThru -Verbose -Restart -Force
 
 start-sleep -Seconds 15
 
-# Reiniciar (caso não tenha reiniciado pelo Remove-Computer)
+# Restart (in case it hasn't restarted from Remove-Computer)
 Restart-Computer -ErrorAction SilentlyContinue -Force
