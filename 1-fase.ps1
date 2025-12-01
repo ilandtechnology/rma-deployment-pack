@@ -23,14 +23,26 @@ fsutil dirty set $env:SystemDrive
 
 DISM /Online /Cleanup-Image /StartComponentCleanup /ResetBase
 
-# Remover Sophos (antivírus)
-$uninstallSophos = Get-WmiObject -Query "SELECT * FROM Win32_Product WHERE Name LIKE 'XSophos%'"
-foreach ($app in $uninstallSophos) {
-    $app.Uninstall()
+# Remover Softwares
+$uninstallSoftwares = @(
+    "7-Zip",
+    "SonicWall NetExtender",
+    "TreeSize Free"
+)
+foreach ($software in $uninstallSoftwares) {
+    $apps = Get-WmiObject -Query "SELECT * FROM Win32_Product WHERE Name LIKE '$software%'"
+    Write-Host "Removendo $software..." -ForegroundColor Yellow
+    foreach ($app in $apps) {
+        $app.Uninstall()
+    }
 }
 
+Set-Culture -CultureInfo pt-BR
+Set-WinSystemLocale -SystemLocale pt-BR
+Set-TimeZone -Id "SA Eastern Standard Time"
+
 # Remover estação do domínio
-Remove-Computer -UnjoinDomaincredential (Get-Credential -UserName "RANGELADV\iland.infra") -PassThru -Verbose -Restart
+Remove-Computer -UnjoinDomaincredential (Get-Credential -UserName "RANGELADV\iland.infra" -Message "Entre a senha para remover a máquina do domínio.") -PassThru -Verbose -Restart -Force
 
 # Reiniciar (caso não tenha reiniciado pelo Remove-Computer)
 Restart-Computer -Force
