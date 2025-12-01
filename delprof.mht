@@ -1,0 +1,741 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/D0F9D646/delprof.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"delprof_files/filelist.xml">
+<title>SUMMARY</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Anshul Rawat</o:Author>
+  <o:LastAuthor>Daniel Harman</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2003-08-19T19:23:00Z</o:Created>
+  <o:LastSaved>2003-08-19T19:23:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>695</o:Words>
+  <o:Characters>3962</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>33</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4648</o:CharactersWithSpaces>
+  <o:Version>11.5329</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.indent1, li.indent1, div.indent1
+	{mso-style-name:indent1;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:24.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.weboutput
+	{mso-style-name:weboutput;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:39668797;
+	mso-list-template-ids:-131846218;}
+@list l0:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1654219330;
+	mso-list-template-ids:-1719488092;}
+@list l1:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:2029021436;
+	mso-list-template-ids:-885854406;}
+@list l2:level1
+	{mso-level-number-format:image;
+	list-style-image:url("PicExportError");
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-right:9.0pt;
+margin-bottom:4.5pt;mso-outline-level:3'><b><span style=3D'font-size:9.5pt;
+font-family:Verdana;color:black;text-transform:uppercase'>SUMMARY<o:p></o:p=
+></span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:8.5pt;font-family:Verdana'>Th=
+is
+step-by-step article describes how to delete user profiles on Windows
+2000/XP/Server 2003 based computers by using the User Profile Deletion Util=
+ity
+(Delprof.exe).<br>
+<br>
+Delprof.exe is available in the Microsoft Windows Server 2003 Resource Kit.=
+ It
+is a command-line utility that you can use to delete user profiles on a loc=
+al
+or remote Windows 2000/XP/Server 2003 based computers. User profiles can gr=
+ow
+large and may take up considerable disk space, especially if there are seve=
+ral
+users using one computer. Because of this, you may want to use Delprof.exe =
+to
+free disk space by deleting profiles that are no longer required. However,
+because each profile on the computer is presented in order when you run the
+utility, you may want to use the Graphical User Interface (GUI) instead of =
+the
+command-line tool whenever this is possible.<br>
+<br>
+You must be logged on as administrator or as a member of the Administrators
+group to delete user profiles.<br style=3D'mso-special-character:line-break=
+'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><a name=3Dbottom><o:p></o:p></a></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:9.0pt;
+mso-outline-level:4'><span style=3D'mso-bookmark:bottom'><a name=3D2></a><b=
+><span
+style=3D'font-size:9.0pt;font-family:Verdana'>Overview of the Delprof.exe T=
+ool<o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana'>Delprof.exe uses the </span></span><span
+style=3D'mso-bookmark:bottom'><b><span style=3D'font-size:10.0pt;font-famil=
+y:"Courier New"'>delprof
+/q /i /p /r /c:\\<var><span style=3D'font-family:"Courier New"'>computer na=
+me</span></var>
+/d:<var><span style=3D'font-family:"Courier New"'>days</span></var></span><=
+/b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;font-family:Ve=
+rdana'>
+syntax. You can use the following parameters with Delprof.exe: <o:p></o:p><=
+/span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:30.0pt;text-indent:-.25in;line-height:120%;mso-list:l2 level1 l=
+fo1;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'><img width=3D9 height=3D9 src=3DPicExportError al=
+t=3D"*"><span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><strong><span style=3D'font-size:8.5pt;line-=
+height:
+120%;font-family:Verdana'>/q</span></strong></span><span style=3D'mso-bookm=
+ark:
+bottom'><span style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana=
+'>:
+This parameter runs Delprof.exe in quiet mode. When you use this parameter,=
+ you
+are not prompted to confirm the deletion of each profile. <o:p></o:p></span=
+></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:30.0pt;text-indent:-.25in;line-height:120%;mso-list:l2 level1 l=
+fo1;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'><img width=3D9 height=3D9 src=3DPicExportError al=
+t=3D"*"><span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><strong><span style=3D'font-size:8.5pt;line-=
+height:
+120%;font-family:Verdana'>/i</span></strong></span><span style=3D'mso-bookm=
+ark:
+bottom'><span style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana=
+'>:
+This parameter ignores any errors that may occur. <o:p></o:p></span></span>=
+</p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:30.0pt;text-indent:-.25in;line-height:120%;mso-list:l2 level1 l=
+fo1;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'><img width=3D9 height=3D9 src=3DPicExportError al=
+t=3D"*"><span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><strong><span style=3D'font-size:8.5pt;line-=
+height:
+120%;font-family:Verdana'>/p</span></strong></span><span style=3D'mso-bookm=
+ark:
+bottom'><span style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana=
+'>:
+This parameter specifies that a message is displayed that prompts you to
+confirm the deletion of each profile. <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:30.0pt;text-indent:-.25in;line-height:120%;mso-list:l2 level1 l=
+fo1;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'><img width=3D9 height=3D9 src=3DPicExportError al=
+t=3D"*"><span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><strong><span style=3D'font-size:8.5pt;line-=
+height:
+120%;font-family:Verdana'>/r</span></strong>:</span><span style=3D'mso-book=
+mark:
+bottom'><span style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana=
+'>
+This parameter specifies that delete the roaming profile cache only. Local
+profiles on the machine will not be deleted. <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:30.0pt;text-indent:-.25in;line-height:120%;mso-list:l2 level1 l=
+fo1;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'><img width=3D9 height=3D9 src=3DPicExportError al=
+t=3D"*"><span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><strong><span style=3D'font-size:8.5pt;line-=
+height:
+120%;font-family:Verdana'>/c:\\</span></strong></span><span style=3D'mso-bo=
+okmark:
+bottom'><var><b><span style=3D'font-size:8.5pt;line-height:120%;font-family=
+:Verdana'>computer
+name</span></b></var></span><span style=3D'mso-bookmark:bottom'><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana'>: This param=
+eter
+specifies the computer name on which to run Delprof.exe. <o:p></o:p></span>=
+</span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:30.0pt;text-indent:-.25in;line-height:120%;mso-list:l2 level1 l=
+fo1;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'><img width=3D9 height=3D9 src=3DPicExportError al=
+t=3D"*"><span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><strong><span style=3D'font-size:8.5pt;line-=
+height:
+120%;font-family:Verdana'>/d:</span></strong></span><span style=3D'mso-book=
+mark:
+bottom'><var><b><span style=3D'font-size:8.5pt;line-height:120%;font-family=
+:Verdana'>days</span></b></var></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>: This parameter specifies the number of days after wh=
+ich
+Delprof.exe considers the profiles as inactive. Profiles that have not been=
+ used
+for a period of time that is longer than the specified value are deleted.<o=
+:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><strong><span
+style=3D'font-size:8.5pt;font-family:Verdana'><o:p>&nbsp;</o:p></span></str=
+ong></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><strong><span
+style=3D'font-size:8.5pt;font-family:Verdana'>WARNING</span></strong></span=
+><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;font-family:Ve=
+rdana'>:
+Delprof.exe deletes all data that is stored in a user profile. This includes
+desktop settings, favorites, program-specific data that is contained in the
+Application Data folder, and the contents of the My Documents folder. Pleas=
+e be
+aware of any user documents that may be deleted before you use this tool. <=
+br>
+<br style=3D'mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:9.0pt;
+mso-outline-level:4'><span style=3D'mso-bookmark:bottom'><a name=3D3></a><b=
+><span
+style=3D'font-size:9.0pt;font-family:Verdana'>Examples<o:p></o:p></span></b=
+></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+mso-outline-level:5'><span style=3D'mso-bookmark:bottom'><a name=3D4></a><b=
+><span
+style=3D'font-size:8.5pt;font-family:Verdana'>How to Use Delprof.exe to Del=
+ete
+User Profiles on a Remote Computer<o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana'>The following example describes how to use
+Delprof.exe to delete user profiles on a remote computer that is named Serv=
+er1.
+Note that if you do not specify a computer in the command, Delprof.exe defa=
+ults
+to the local computer. <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l0 level1 l=
+fo2;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>1.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Click <strong><span style=3D'font-family:Verdana'>Star=
+t</span></strong>,
+point to <strong><span style=3D'font-family:Verdana'>Programs</span></stron=
+g>,
+point to <strong><span style=3D'font-family:Verdana'>Accessories</span></st=
+rong>,
+and then click <strong><span style=3D'font-family:Verdana'>Command Prompt</=
+span></strong>.
+<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l0 level1 l=
+fo2;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>2.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>At the command prompt, type </span></span><span
+style=3D'mso-bookmark:bottom'><b><span style=3D'font-size:10.0pt;line-heigh=
+t:120%;
+font-family:"Courier New"'>delprof /p /c:\\server1</span></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER. For each cached user profile on
+Server1, a message is displayed in the command prompt window that prompts y=
+ou
+to confirm its deletion. For example, you receive a message that is similar=
+ to
+the following message: <o:p></o:p></span></span></p>
+
+<p class=3Dindent1 style=3D'margin-left:.8in;line-height:120%'><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>Delete \\SERVER1\D$\Documents and Settings\User1?
+(Yes/No/All) <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l0 level1 l=
+fo2;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>3.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Complete one of the following actions for each user
+profile that you are prompted to delete: <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:63.6pt;text-indent:-.25in;line-height:120%;mso-list:l0 level2 l=
+fo2;
+tab-stops:list 1.0in'><span style=3D'mso-bookmark:bottom'><![if !supportLis=
+ts]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Type </span></span><span style=3D'mso-bookmark:bottom'=
+><b><span
+style=3D'font-size:10.0pt;line-height:120%;font-family:"Courier New"'>y</sp=
+an></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER if you want to delete the profi=
+le. <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:63.6pt;text-indent:-.25in;line-height:120%;mso-list:l0 level2 l=
+fo2;
+tab-stops:list 1.0in'><span style=3D'mso-bookmark:bottom'><![if !supportLis=
+ts]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Type </span></span><span style=3D'mso-bookmark:bottom'=
+><b><span
+style=3D'font-size:10.0pt;line-height:120%;font-family:"Courier New"'>n</sp=
+an></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER if you do not want to delete the
+profile.<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l0 level1 l=
+fo2;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>4.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Type </span></span><span style=3D'mso-bookmark:bottom'=
+><b><span
+style=3D'font-size:10.0pt;line-height:120%;font-family:"Courier New"'>exit<=
+/span></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER to quit the command prompt.<o:p=
+></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+mso-outline-level:5'><span style=3D'mso-bookmark:bottom'><a name=3D5></a><b=
+><span
+style=3D'font-size:8.5pt;font-family:Verdana'>How to Use Delprof.exe to Del=
+ete
+User Profiles After a Specified Period of Inactivity<o:p></o:p></span></b><=
+/span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana'>The following example describes how to use
+Delprof.exe to delete user profiles on the local computer that have been
+inactive for 30 days: <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l1 level1 l=
+fo3;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>1.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Click <strong><span style=3D'font-family:Verdana'>Star=
+t</span></strong>,
+point to <strong><span style=3D'font-family:Verdana'>Programs</span></stron=
+g>,
+point to <strong><span style=3D'font-family:Verdana'>Accessories</span></st=
+rong>,
+and then click <strong><span style=3D'font-family:Verdana'>Command Prompt</=
+span></strong>.
+<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l1 level1 l=
+fo3;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>2.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>At the command prompt, type </span></span><span
+style=3D'mso-bookmark:bottom'><b><span style=3D'font-size:10.0pt;line-heigh=
+t:120%;
+font-family:"Courier New"'>delprof /p /d:30</span></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER. For each user profile that has=
+ not
+been used on the computer for 30 days, a message is displayed that prompts =
+you
+to confirm its deletion. For example, you receive a message that is similar=
+ to
+the following message: <o:p></o:p></span></span></p>
+
+<p class=3Dindent1 style=3D'margin-left:.8in;line-height:120%'><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>Delete \\MYCOMPUTER\D$\Documents and Settings\User2?
+(Yes/No/All) <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l1 level1 l=
+fo3;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>3.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Complete one of the following actions for each user
+profile that you are prompted to delete: <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:63.6pt;text-indent:-.25in;line-height:120%;mso-list:l1 level2 l=
+fo3;
+tab-stops:list 1.0in'><span style=3D'mso-bookmark:bottom'><![if !supportLis=
+ts]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Type </span></span><span style=3D'mso-bookmark:bottom'=
+><b><span
+style=3D'font-size:10.0pt;line-height:120%;font-family:"Courier New"'>y</sp=
+an></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER if you want to delete the profi=
+le. <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:63.6pt;text-indent:-.25in;line-height:120%;mso-list:l1 level2 l=
+fo3;
+tab-stops:list 1.0in'><span style=3D'mso-bookmark:bottom'><![if !supportLis=
+ts]><span
+style=3D'font-size:10.0pt;mso-bidi-font-size:8.5pt;line-height:120%;font-fa=
+mily:
+Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Type </span></span><span style=3D'mso-bookmark:bottom'=
+><b><span
+style=3D'font-size:10.0pt;line-height:120%;font-family:"Courier New"'>n</sp=
+an></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER if you do not want to delete the
+profile.<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:.05pt;
+margin-left:33.6pt;text-indent:-.25in;line-height:120%;mso-list:l1 level1 l=
+fo3;
+tab-stops:list .5in'><span style=3D'mso-bookmark:bottom'><![if !supportList=
+s]><span
+style=3D'font-size:8.5pt;line-height:120%;font-family:Verdana;mso-fareast-f=
+ont-family:
+Verdana;mso-bidi-font-family:Verdana'><span style=3D'mso-list:Ignore'>4.<sp=
+an
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:8.5pt;line-height:1=
+20%;
+font-family:Verdana'>Type </span></span><span style=3D'mso-bookmark:bottom'=
+><b><span
+style=3D'font-size:10.0pt;line-height:120%;font-family:"Courier New"'>exit<=
+/span></b></span><span
+style=3D'mso-bookmark:bottom'><span style=3D'font-size:8.5pt;line-height:12=
+0%;
+font-family:Verdana'>, and then press ENTER to quit the command prompt.<o:p=
+></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;margin-bottom:9.0pt;
+mso-outline-level:4'><span style=3D'mso-bookmark:bottom'><a name=3D6></a><b=
+><span
+style=3D'font-size:9.0pt;font-family:Verdana'>Troubleshooting<o:p></o:p></s=
+pan></b></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana'>You may receive the following message when you
+attempt to use Delprof.exe to delete user profiles: <o:p></o:p></span></spa=
+n></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana;color:red'>Failed to open list of profiles.<br>
+Access is denied. <o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-bookmark:bottom'><span style=3D'fon=
+t-size:
+8.5pt;font-family:Verdana'>This behavior can occur if you are not logged on=
+ to
+the computer as an administrator or as a member of the Administrators group=
+. <br>
+<br>
+To resolve this behavior, log on to the computer as an administrator or as a
+member of the administrators group, and then use Delprof.exe to delete the
+appropriate user profiles.<br>
+<br style=3D'mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]></span></span></p>
+
+</div>
+
+</body>
+
+</html>
