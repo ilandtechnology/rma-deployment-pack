@@ -27,7 +27,7 @@ chkntfs /D
 chkntfs /C $env:SystemDrive
 fsutil dirty set $env:SystemDrive
 DISM /Online /Cleanup-Image /StartComponentCleanup /ResetBase
-& "$PSScriptRoot\delprof.exe" /Q /I /D:190
+& "$PSScriptRoot\delprof.exe" /Q /I /D:180
 
 # Remove unwanted software
 $uninstallSoftwares = @(

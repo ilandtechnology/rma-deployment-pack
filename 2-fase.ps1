@@ -1,3 +1,7 @@
+$WallpaperStyle = "2"
+$TileWallpaper   = "0"
+$UserProfilesPath = "$env:SystemDrive\Users"
+
 $destFolder = "$env:SystemDrive\Temp\provisioning"
 $ppkgPath = "$destFolder\rma-deployment-pack-main\intune-rma.ppkg"
 
