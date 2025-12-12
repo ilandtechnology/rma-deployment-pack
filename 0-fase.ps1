@@ -18,4 +18,4 @@ Invoke-WebRequest -Uri "$repoUrl/archive/refs/heads/main.zip" -OutFile $zipPath
 Expand-Archive -Path $zipPath -DestinationPath $destFolder -Force
 Remove-Item $zipPath -ErrorAction SilentlyContinue -Force
 
-# & "$destFolder\rma-deployment-pack-main\1-fase.ps1"
+& "$destFolder\rma-deployment-pack-main\1-fase.ps1"
